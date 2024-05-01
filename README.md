@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Experienced Full Stack Developer with a strong background in designing and developing scalable web applications. Proficient in both front-end and back- end technologies, including HTML/CSS, JavaScript, and various frameworks.<br>Seeking a Full Stack Developer position where I can utilize my skills and experience to contribute to the development of cutting-edge software solutions.<br>
+Experienced Full Stack Developer with a strong background in designing and developing scalable web applications. Proficient in both front-end and back- end technologies, including  MERN, Spring and various frameworks.<br>Seeking a Full Stack Developer position where I can utilize my skills and experience to contribute to the development of cutting-edge software solutions.<br>
 
 
 ## 🌐 Socials:
