@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dreaming+in+code;Coding+my+dreams)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dreaming+in+code;Coding+my+dreams&center=true&width=500&height=50">
+  </a>
+</p>
+
 
 # 💫 About Me:
 Experienced Full Stack Developer with a strong background in designing and developing scalable web applications. Proficient in both front-end and back- end technologies, including HTML/CSS, JavaScript, and various frameworks.<br>Seeking a Full Stack Developer position where I can utilize my skills and experience to contribute to the development of cutting-edge software solutions.<br>
