@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Experienced Full Stack Developer with a strong background in designing and developing scalable web applications. Proficient in both front-end and back- end technologies, including  MERN, Spring and various frameworks.<br>Seeking a Full Stack Developer position where I can utilize my skills and experience to contribute to the development of cutting-edge software solutions.<br>
+AWS Certified Cloud Practitioner and Backend Developer skilled in designing and developing scalable web applications. Proficient in Java, Spring Boot, and various JavaScript frameworks. I am looking for a Backend Developer position where I can leverage my expertise to contribute to innovative software solutions.<br/>
 
 
 ## 🌐 Socials:
