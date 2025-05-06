@@ -55,8 +55,10 @@ AWS Certified Cloud Practitioner and Backend Developer skilled in designing and 
 ### API Development and Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ### Leetcode Badges 
 <a href="https://leetcode.com/u/Tushar21014/"><img src="https://github.com/user-attachments/assets/67d358e5-79f7-4547-8b23-190ad1aff795" width="20%"/></a>
+<a href="https://leetcode.com/u/Tushar21014/"><img src="https://github.com/user-attachments/assets/2df05be7-012f-40df-b117-d9cfef847885" width="20%"/></a>
 
 
 # 📊 GitHub Stats:
